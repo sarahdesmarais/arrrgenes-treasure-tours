@@ -27,6 +27,10 @@ html {
   text-decoration: none;
 }
 
+.nav a:focus {
+  border: 2px, solid, #000;
+}
+
 .nav a span {
   border-bottom: .3rem solid #bea59b;
 }
