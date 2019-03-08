@@ -43,7 +43,11 @@ html {
 .banner {
   min-height: 16em;
   color: #fff;
-  background-color: #bea59b;
+  background-color: #522806;
+}
+
+.banner-content a:focus {
+  outline-color: #fff;
 }
 
 .card {
