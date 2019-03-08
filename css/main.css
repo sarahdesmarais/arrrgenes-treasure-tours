@@ -28,7 +28,7 @@ html {
 }
 
 .nav a:focus {
-  outline: 2px, solid, #000;
+  outline: 2px solid #000;
 }
 
 .nav a span {
